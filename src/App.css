@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@700&family=Lato:wght@700&family=Playfair+Display:wght@600&family=Poppins:wght@200;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@700&family=Playfair+Display:wght@600&family=Poppins:wght@200&display=swap');
+.disabled {
+    display: none;
+}
+.back {
+    background-color: red;
+    color: white;
+}
+.success {
+    background-color: #00ee00;
+    color: white;
+}
+html {
+    scroll-behavior: smooth;
+}
